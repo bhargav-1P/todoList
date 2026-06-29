@@ -3,7 +3,7 @@
 A vanilla JavaScript task manager built during my 180-day backend development sprint. No frameworks, no tutorials, no AI assistance. Hand-coded DOM manipulation and localStorage persistence.
 
 ## 🚀 Live Demo
-[View on Netlify](https://your-todo-list-url.netlify.app)
+[View on Netlify](https://newiup-todolist.netlify.app/)
 
 ## 🛠 Tech Stack
 - HTML5
