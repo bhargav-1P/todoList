@@ -28,3 +28,8 @@ A vanilla JavaScript task manager built during my 180-day backend development sp
 - Rendering data to screen dynamically
 
 ## 📂 Project Structure
+todo-list/
+├── index.html
+├── styles.css
+├── script.js
+└── README.md
